@@ -201,8 +201,7 @@ tasks {
             "META-INF/maven/**",
             "META-INF/versions/**",
             "META-INF/com.android.tools/**",
-            "fabric.mod.json",
-            "**/loader-dev.jar"
+            "fabric.mod.json"
         )
         mergeServiceFiles()
     }
